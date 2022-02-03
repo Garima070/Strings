@@ -14,10 +14,10 @@ public class reverse {
             b.setCharAt(front,back1);
             b.setCharAt(back,front1);
         }
-        char[] ar=new char[6];
+       // char[] ar=new char[6];
         System.out.println(b);
-        b.getChars(0,6,ar,0);
-        System.out.println(ar);
+      //  b.getChars(0,6,ar,0);
+        //System.out.println(ar);
         }
     }
 

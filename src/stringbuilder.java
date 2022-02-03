@@ -10,7 +10,7 @@ public class stringbuilder {
         System.out.println(b);
         System.out.println(b.insert(0,'T'));
         System.out.println(b.insert(4,'S'));
-        b.delete(0,2);
+        b.delete(0,1);
         System.out.println(b);
         b.append("Raj");
         b.append("poo");
